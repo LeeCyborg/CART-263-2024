@@ -1,3 +1,3 @@
 # CART-263-2024
-## My first Project 
+## Welcome to class!
 Hello world! 
